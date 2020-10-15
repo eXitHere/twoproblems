@@ -1,1 +1,1 @@
-This project for practise programming skill in python language
+This project for practise programming skills
